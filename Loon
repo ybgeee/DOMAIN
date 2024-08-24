@@ -1,0 +1,9 @@
+# 误杀
+DOMAIN-SUFFIX,stripchat.com,Final手动
+
+# 误判
+DOMAIN-KEYWORD,nsloon,DIRECT
+
+# Speedtest
+DOMAIN,videoqoe.stvidtest.net,Speedtest
+DOMAIN,st.downdetectorapi.com,Speedtest
