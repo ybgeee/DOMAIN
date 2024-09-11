@@ -1,8 +1,8 @@
 # 误杀
-DOMAIN-SUFFIX,stripchat.com,Final手动
 
 # 误判
 DOMAIN-KEYWORD,nsloon,DIRECT
+DOMAIN,pic.sheengs.cn,Final手动
 
 # Speedtest
 DOMAIN,videoqoe.stvidtest.net,Speedtest
