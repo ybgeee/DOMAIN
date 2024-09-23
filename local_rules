@@ -1,9 +1,20 @@
-# 误杀
-
-# 误判
-DOMAIN-KEYWORD,nsloon,DIRECT
-DOMAIN,pic.sheengs.cn,Final手动
-
+# OpenAI 追踪
+DOMAIN-SUFFIX,o33249.ingest.sentry.io,REJECT
+DOMAIN-SUFFIX,openaicom.imgix.net,REJECT
 # Speedtest
 DOMAIN,videoqoe.stvidtest.net,Speedtest
 DOMAIN,st.downdetectorapi.com,Speedtest
+# 51cg
+DOMAIN,51cg.fun,Final手动
+DOMAIN,pic.shnztkj.cn,Final手动
+
+# 误杀
+DOMAIN,xp.apple.com,Apple
+# 误判
+DOMAIN-SUFFIX,getui.net,REJECT
+DOMAIN-KEYWORD,nsloon,DIRECT
+DOMAIN,linux.do,DIRECT
+DOMAIN,r.awsl.app,DIRECT
+DOMAIN-SUFFIX,jsdelivr.net,DIRECT
+DOMAIN-SUFFIX,adrules.top,DIRECT
+DOMAIN-SUFFIX,revenuecat.com,DIRECT
